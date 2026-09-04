@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W08003 - SpeTool W08003 Double Flute Cove Box Router Bit 3/4\" CD x 1/4\" SD x 1/2\" CL x 1-4/5\" OVL(RP-D3/4-H1/4-FBA)",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "0.0000 °",
+    "CuttingEdgeHeight": "12.7000 mm",
+    "Diameter": "19.0500 mm",
+    "TipDiameter": "19.0500 mm",
+    "Length": "45.7200 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08003",
+    "Description": "SpeTool W08003 Double Flute Cove Box Router Bit 3/4\" CD x 1/4\" SD x 1/2\" CL x 1-4/5\" OVL(RP-D3/4-H1/4-FBA)",
+    "ProductLink": "",
+    "FusionGUID": "03e642e7-fb9d-4b1a-b222-c2a948bb4ee5",
+    "FusionType": "tapered mill",
+    "FusionUnit": "inches"
+  }
+}

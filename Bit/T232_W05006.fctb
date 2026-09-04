@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05006 - SpeTool W05006 3 FLUTES SPOILBOARD 60MM DIA x 12MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "60.0000 mm",
+    "Length": "63.3500 mm",
+    "ShankDiameter": "12.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05006",
+    "Description": "SpeTool W05006 3 FLUTES SPOILBOARD 60MM DIA x 12MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-w05006-ats-coated-carbide-insert-3-flutes-spoilboard-60mm-dia-x-12mm-shank",
+    "FusionGUID": "eb68378e-cc45-4b16-89b6-1e3d18455365",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

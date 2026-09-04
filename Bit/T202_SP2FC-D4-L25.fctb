@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP2FC-D4-L25 - SpeTool W02503 COMPRESSION 2 FL 4MM DIA x 25MM CL x 4MM SHANK x 50MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "25.0000 mm",
+    "Diameter": "4.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "4.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP2FC-D4-L25",
+    "Description": "SpeTool W02503 COMPRESSION 2 FL 4MM DIA x 25MM CL x 4MM SHANK x 50MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-4mm-dia-x-25mm-cl-x-4mm-shank-x-50mm-ovl-router-bit",
+    "FusionGUID": "60b76f5f-f2e1-4bee-a53e-16fe38e01c34",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

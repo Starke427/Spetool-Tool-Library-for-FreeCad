@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05011 - SpeTool W05011 CNC Insert Mini Spoilboard Surfacing, Rabbeting, Flycutter, Slab Leveler & Surface Planer 1\" Diameter x 1/4\" Shank Router Bit x 2-1/4\" Long",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "25.4000 mm",
+    "Length": "57.1500 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05011",
+    "Description": "SpeTool W05011 CNC Insert Mini Spoilboard Surfacing, Rabbeting, Flycutter, Slab Leveler & Surface Planer 1\" Diameter x 1/4\" Shank Router Bit x 2-1/4\" Long",
+    "ProductLink": "https://spetools.com/products/spetool-w05011-cnc-insert-spoilboard-surfacing-planer-1-diameter-router-bit",
+    "FusionGUID": "67103b53-4c9a-431f-8ad7-538f3a14edcd",
+    "FusionType": "face mill",
+    "FusionUnit": "inches"
+  }
+}

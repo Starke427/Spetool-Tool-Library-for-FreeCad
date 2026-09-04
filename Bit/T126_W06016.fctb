@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W06016 - SpeTool W06016 Insert Carbide V Groove 90 Deg x 1/4\" Shank x 2-1/8\" Long Single Flute Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "90.0000 °",
+    "CuttingEdgeHeight": "8.3344 mm",
+    "Diameter": "17.4625 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "49.6095 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W06016",
+    "Description": "SpeTool W06016 Insert Carbide V Groove 90 Deg x 1/4\" Shank x 2-1/8\" Long Single Flute Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w06016-insert-carbide-v-groove-90-deg-1-4-shank-single-flute-router-bit",
+    "FusionGUID": "280deb6d-7227-4749-a672-d37d82c7e1e7",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "inches"
+  }
+}

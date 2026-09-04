@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP2FC-D8-L45 - SpeTool W02508 COMPRESSION 2 FL 8MM DIA x 45MM CL x 8MM SHANK x 100MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "45.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "100.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP2FC-D8-L45",
+    "Description": "SpeTool W02508 COMPRESSION 2 FL 8MM DIA x 45MM CL x 8MM SHANK x 100MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-8mm-dia-x-45mm-cl-x-8mm-shank-x-100mm-ovl-router-bit",
+    "FusionGUID": "86deb998-5d0d-4a86-bc85-e1399e7af5f3",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

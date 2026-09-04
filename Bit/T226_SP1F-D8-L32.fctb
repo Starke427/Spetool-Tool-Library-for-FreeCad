@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP1F-D8-L32 - SpeTool W03506 O FLUTE 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP1F-D8-L32",
+    "Description": "SpeTool W03506 O FLUTE 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-8mm-dia-x-32mm-cl-x-8mm-shank-x-75mm-ovl-router-bit",
+    "FusionGUID": "da604cea-a349-41f8-b8d2-71c00182de9f",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

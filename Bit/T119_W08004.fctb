@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W08004 - SpeTool W08004 Carbide Tipped Core Box 3/8\" Radius x 3/4\" Dia x 1/2\" Shank x 1/2\" Cutting Length x 2\" Long Double Flute Router Bit",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "0.0000 °",
+    "CuttingEdgeHeight": "12.7000 mm",
+    "Diameter": "19.0500 mm",
+    "TipDiameter": "19.0500 mm",
+    "Length": "50.8000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08004",
+    "Description": "SpeTool W08004 Carbide Tipped Core Box 3/8\" Radius x 3/4\" Dia x 1/2\" Shank x 1/2\" Cutting Length x 2\" Long Double Flute Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w08004-cove-box-half-round-router-bit-3-4-dia-1-2-shank",
+    "FusionGUID": "2e3244b6-3ca0-4cd1-b484-221a0452a8a0",
+    "FusionType": "tapered mill",
+    "FusionUnit": "inches"
+  }
+}

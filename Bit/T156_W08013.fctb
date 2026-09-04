@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "W08013 - SpeTool W08013 Juice Groove Router Bits 3/16\" x 1/2\" Shank",
+  "shape": "bullnose.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "9.5250 mm",
+    "Diameter": "31.7500 mm",
+    "FlatRadius": "4.7625 mm",
+    "Length": "60.0000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08013",
+    "Description": "SpeTool W08013 Juice Groove Router Bits 3/16\" x 1/2\" Shank",
+    "ProductLink": "https://spetools.com/products/spetool-juice-groove-router-bits-3-16-curve-1-2-shank-for-creating-precise-drainage-channels",
+    "FusionGUID": "6f593474-02aa-4dff-83b9-dba0fa17e788",
+    "FusionType": "radius mill",
+    "FusionUnit": "inches"
+  }
+}

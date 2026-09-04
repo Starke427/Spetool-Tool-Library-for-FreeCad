@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M03011 - SpeTool M03011 5Pcs CNC SC Spiral for Steel, Stainless Steel with TiAlN Coating 4-Flute 1/8\" Dia x 1/8\" Shank x 1/2\" Cutting Length x 1-1/2\" Long Flat Top Up Cut End Mills",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.7000 mm",
+    "Diameter": "3.1750 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "4",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M03011",
+    "Description": "SpeTool M03011 5Pcs CNC SC Spiral for Steel, Stainless Steel with TiAlN Coating 4-Flute 1/8\" Dia x 1/8\" Shank x 1/2\" Cutting Length x 1-1/2\" Long Flat Top Up Cut End Mills",
+    "ProductLink": "https://spetools.com/products/spetool-m03011-stainless-steel-up-cut-end-mill-flat-top-4-flute-1-8-dia-1-8-shank",
+    "FusionGUID": "7b6bdaf3-252c-4e85-8b79-1f89350f9e2a",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05005 - SpeTool W05005 3 FLUTES SPOILBOARD 35MM DIA x 8MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "10.5000 mm",
+    "Diameter": "35.0000 mm",
+    "Length": "63.3500 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05005",
+    "Description": "SpeTool W05005 3 FLUTES SPOILBOARD 35MM DIA x 8MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-spetool-w05005-3-flutes-spoilboard-35mm-dia-x-8mm-shank",
+    "FusionGUID": "9ef92949-5ab9-4fcc-9e12-6efcad6ac04c",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

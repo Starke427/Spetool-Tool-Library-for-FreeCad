@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP2FC-d6-D8-L24 - SpeTool W02504 COMPRESSION 2 FL 6MM DIA x 24MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "24.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP2FC-d6-D8-L24",
+    "Description": "SpeTool W02504 COMPRESSION 2 FL 6MM DIA x 24MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-6mm-dia-x-24mm-cl-x-8mm-shank-x-75mm-ovl-router-bit",
+    "FusionGUID": "d8497caa-eb51-49bb-8e79-291a950bea54",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

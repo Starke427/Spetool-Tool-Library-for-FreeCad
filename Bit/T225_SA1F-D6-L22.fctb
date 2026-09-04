@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SA1F-D6-L22 - SpeTool W03503 O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM OVL ROUTER BIT FOR ALUMINUM",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "22.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SA1F-D6-L22",
+    "Description": "SpeTool W03503 O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM OVL ROUTER BIT FOR ALUMINUM",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-6mm-dia-x-22mm-cl-x-6mm-shank-x-50mm-ovl-router-bit-for-aluminum",
+    "FusionGUID": "a9d3c8a3-14a1-4182-b27c-8ce36f2b5eb9",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

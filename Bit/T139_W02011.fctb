@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W02011 - SpeTool W02011 Compression Spiral 1/4\" Dia x 1/4\" Shank x 1-1/4\" Cutting Length x 3\" Extra Long 2 Flute Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "31.7500 mm",
+    "Diameter": "6.3500 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W02011",
+    "Description": "SpeTool W02011 Compression Spiral 1/4\" Dia x 1/4\" Shank x 1-1/4\" Cutting Length x 3\" Extra Long 2 Flute Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w02011-spiral-compression-router-bits-1-4-inch-dia-1-4-shank-3-extra-long",
+    "FusionGUID": "9701668c-b93a-44c5-a826-73bfbc1b39f6",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

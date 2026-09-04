@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "IP2F-25-D8 - SpeTool W05501 2 FLUTES SPOILBOARD 26MM DIA x 8MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "26.0000 mm",
+    "Length": "54.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "IP2F-25-D8",
+    "Description": "SpeTool W05501 2 FLUTES SPOILBOARD 26MM DIA x 8MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-2-flutes-spoilboard-26mm-dia-x-8mm-shank",
+    "FusionGUID": "d3f295dc-7c0a-445f-9517-5647a858f611",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

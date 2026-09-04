@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W08016 - SpeTool W08016 SpeTool Juice Groove Router Bit 1/2\" Cove x 3/4\" Cutting Diameter x 1/4\" Shank – 90° V-Groove Chamfer Bit for Cutting Boards & Drainage Channels",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "0.0000 °",
+    "CuttingEdgeHeight": "11.0000 mm",
+    "Diameter": "19.0500 mm",
+    "TipDiameter": "19.0500 mm",
+    "Length": "43.0000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08016",
+    "Description": "SpeTool W08016 SpeTool Juice Groove Router Bit 1/2\" Cove x 3/4\" Cutting Diameter x 1/4\" Shank – 90° V-Groove Chamfer Bit for Cutting Boards & Drainage Channels",
+    "ProductLink": "https://spetools.com/products/juice-groove-router-bit-3-4in-carbide-1-4shank",
+    "FusionGUID": "ccf9ae29-fe98-4359-a479-0a5b9483680b",
+    "FusionType": "tapered mill",
+    "FusionUnit": "inches"
+  }
+}

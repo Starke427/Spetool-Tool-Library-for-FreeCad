@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W08001 - SpeTool W08007 Carbide Tipped Bowl & Tray 1/4\" Radius x 3/4\" Dia x 1/4\" Shank x 5/8\" Cutting Length x 3\" Long Double Flute Router Bit",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "0.0000 °",
+    "CuttingEdgeHeight": "15.8750 mm",
+    "Diameter": "19.0500 mm",
+    "TipDiameter": "19.0500 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08001",
+    "Description": "SpeTool W08007 Carbide Tipped Bowl & Tray 1/4\" Radius x 3/4\" Dia x 1/4\" Shank x 5/8\" Cutting Length x 3\" Long Double Flute Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w08007-carbide-tipped-bowl-tray-3-long-router-bit",
+    "FusionGUID": "f5da54aa-69b1-4ee6-b5fe-bacfd21b9ce4",
+    "FusionType": "tapered mill",
+    "FusionUnit": "inches"
+  }
+}

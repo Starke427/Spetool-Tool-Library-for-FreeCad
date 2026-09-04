@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W02012 - SpeTool W02012 Compression Spiral 1/2\" Dia x 1/2\" Shank x 3\" Cutting Length x 5\" Extra Long 2 Flute Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "76.2000 mm",
+    "Diameter": "12.7000 mm",
+    "Length": "127.0000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W02012",
+    "Description": "SpeTool W02012 Compression Spiral 1/2\" Dia x 1/2\" Shank x 3\" Cutting Length x 5\" Extra Long 2 Flute Router Bit",
+    "ProductLink": "https://spetools.com/products/w02012-1-2-dia-5-inches-compression-extra-long-router-bits",
+    "FusionGUID": "4d43caca-da3c-42cd-a108-0fc9dc2d1761",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP-d4-D8-L20-D - SpeTool W04501 DOWN CUT 2 FL 4MM DIA x 20MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "20.0000 mm",
+    "Diameter": "4.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP-d4-D8-L20-D",
+    "Description": "SpeTool W04501 DOWN CUT 2 FL 4MM DIA x 20MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-down-cut-2-fl-4mm-dia-x-20mm-cl-x-8mm-shank-x-75mm-ovl-router-bit",
+    "FusionGUID": "a7875614-30d1-47e1-b30d-c2772edbb3a7",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05007 - SpeTool W05007 2+2 FLUTES SPOILBOARD 38.1MM DIA x 8MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "38.1000 mm",
+    "Length": "60.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05007",
+    "Description": "SpeTool W05007 2+2 FLUTES SPOILBOARD 38.1MM DIA x 8MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-w05007-2-2-flutes-spoilboard-38-1mm-dia-x-8mm-shank",
+    "FusionGUID": "95d2d57b-1d47-4872-97f0-3adcc806c8ec",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

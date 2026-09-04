@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "IP5FC-3-1/4-D1/2 - SpeTool W05014 Slab Flattening Router Bit 1/2\" Shank 3-1/4\" Cutting Diamter 5 Wings Insert Carbide Spoilboard Surfacing Planing Rourter Bit CNC Planer Woodworking",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "82.5500 mm",
+    "Length": "96.0000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "5",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "IP5FC-3-1/4-D1/2",
+    "Description": "SpeTool W05014 Slab Flattening Router Bit 1/2\" Shank 3-1/4\" Cutting Diamter 5 Wings Insert Carbide Spoilboard Surfacing Planing Rourter Bit CNC Planer Woodworking",
+    "ProductLink": "https://spetools.com/products/spetool-slab-flattening-router-bit-1-2-shank-3-1-4-cutting-diamter-5-wings-insert-carbide-spoilboard-surfacing-planing-rourter-bit-cnc-planer-woodworking",
+    "FusionGUID": "940d2f9f-da96-48ff-b1df-f992116b4055",
+    "FusionType": "face mill",
+    "FusionUnit": "inches"
+  }
+}

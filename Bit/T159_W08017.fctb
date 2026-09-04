@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W08017 - SpeTool W08017 SpeTool Juice Groove Router Bit 3/8\" Cove × 1-1/2\" Cutting Diameter × 1/2\" Shank – 2-Flute Carbide Tipped with Chamfer Edge for Cutting Boards & Wood Trays",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "21.0000 mm",
+    "Diameter": "38.1000 mm",
+    "Length": "65.0000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08017",
+    "Description": "SpeTool W08017 SpeTool Juice Groove Router Bit 3/8\" Cove × 1-1/2\" Cutting Diameter × 1/2\" Shank – 2-Flute Carbide Tipped with Chamfer Edge for Cutting Boards & Wood Trays",
+    "ProductLink": "https://spetools.com/products/juice-groove-router-bit-1-1-2in-carbide-1-2shank",
+    "FusionGUID": "c628d8c2-39b7-416c-aeaf-a10d11087001",
+    "FusionType": "ball end mill",
+    "FusionUnit": "inches"
+  }
+}

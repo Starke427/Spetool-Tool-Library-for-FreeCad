@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP1F-D6-L22 - SpeTool W03504 O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "22.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP1F-D6-L22",
+    "Description": "SpeTool W03504 O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-6mm-dia-x-22mm-cl-x-6mm-shank-x-50mm-ovl-router-bit",
+    "FusionGUID": "31d19392-b8a4-40c3-8b0e-eaf34eb51f63",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

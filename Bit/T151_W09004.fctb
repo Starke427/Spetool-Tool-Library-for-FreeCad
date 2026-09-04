@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "W09004 - SpeTool W09004 Carbide Tipped Round Over 3/8\" Radius x 3/4\" Cutting Diameter x 1/2\" Shank x 2-5/16\" Overall Length 2 Flute Router Bit",
+  "shape": "bullnose.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "19.0500 mm",
+    "Diameter": "0.7112 mm",
+    "FlatRadius": "9.5250 mm",
+    "Length": "58.7375 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W09004",
+    "Description": "SpeTool W09004 Carbide Tipped Round Over 3/8\" Radius x 3/4\" Cutting Diameter x 1/2\" Shank x 2-5/16\" Overall Length 2 Flute Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w09004-carbide-tipped-round-over-3-8-radius-1-2-shank-router-bit",
+    "FusionGUID": "77dffcb4-b212-4a7c-a972-b06c92726c05",
+    "FusionType": "radius mill",
+    "FusionUnit": "inches"
+  }
+}

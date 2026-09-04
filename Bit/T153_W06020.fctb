@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W06020 - SpeTool W06020 Carbide Tipped V Groove 120 Deg 1-1/4\" Dia x 1/2\" Shank x 2-1/5\" Long Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "120.0000 °",
+    "CuttingEdgeHeight": "9.1440 mm",
+    "Diameter": "31.7500 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "55.8800 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W06020",
+    "Description": "SpeTool W06020 Carbide Tipped V Groove 120 Deg 1-1/4\" Dia x 1/2\" Shank x 2-1/5\" Long Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w06020-carbide-tipped-v-groove-120-deg-1-2-shank-router-bit",
+    "FusionGUID": "611a7a91-8a4f-43a8-bfe4-7dda8bd79a2b",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "inches"
+  }
+}

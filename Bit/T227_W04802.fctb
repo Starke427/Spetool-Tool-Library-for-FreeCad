@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W04802 - SpeTool W04802 Ball End Mill 8 mm Cutting Diameter 8 mm Shank 32 mm Cutting Length Double Flute Router Bit Solid Carbide Milling Cutter for DIY Woodworking Carving Engraving",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W04802",
+    "Description": "SpeTool W04802 Ball End Mill 8 mm Cutting Diameter 8 mm Shank 32 mm Cutting Length Double Flute Router Bit Solid Carbide Milling Cutter for DIY Woodworking Carving Engraving",
+    "ProductLink": "",
+    "FusionGUID": "14031869-c48d-4ad3-9eb6-47edf5ff87e2",
+    "FusionType": "ball end mill",
+    "FusionUnit": "millimeters"
+  }
+}

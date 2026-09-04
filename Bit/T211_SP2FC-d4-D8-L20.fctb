@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP2FC-d4-D8-L20 - SpeTool W02501 COMPRESSION 2 FL 4MM DIA x 20MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "20.0000 mm",
+    "Diameter": "4.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP2FC-d4-D8-L20",
+    "Description": "SpeTool W02501 COMPRESSION 2 FL 4MM DIA x 20MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-4mm-dia-x-20mm-cl-x-8mm-shank-x-75mm-ovl-router-bit",
+    "FusionGUID": "e265f6f5-eaea-4d3a-9b75-03643915c444",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

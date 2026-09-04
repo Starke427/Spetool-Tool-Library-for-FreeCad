@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W06019 - SpeTool W06019 Insert Carbide V Groove 60 Deg 1-1/16\" Cutting Dia x 1/4\" Shank x 59/64\" Cutting Length x 2-3/8\" Overall Long Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "60.0000 °",
+    "CuttingEdgeHeight": "23.4156 mm",
+    "Diameter": "26.9875 mm",
+    "FlatRadius": "0.1270 mm",
+    "Length": "60.7060 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W06019",
+    "Description": "SpeTool W06019 Insert Carbide V Groove 60 Deg 1-1/16\" Cutting Dia x 1/4\" Shank x 59/64\" Cutting Length x 2-3/8\" Overall Long Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w06019-insert-carbide-v-groove-60-deg-1-2-cutting-dia-1-4-shank-router-bit",
+    "FusionGUID": "a6dbd66f-581a-46c5-94c8-e3a57134b79a",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "W08010 - SpeTool W08010 Juice Groove Router Bits 1/8\" Radius 1/4\" Shank",
+  "shape": "bullnose.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "6.3500 mm",
+    "Diameter": "9.5250 mm",
+    "FlatRadius": "3.1750 mm",
+    "Length": "44.7000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08010",
+    "Description": "SpeTool W08010 Juice Groove Router Bits 1/8\" Radius 1/4\" Shank",
+    "ProductLink": "https://spetools.com/products/spetool-w08010-juice-groove-router-bits-1-8-radius-1-4-shank",
+    "FusionGUID": "28d8f2d0-d1ad-4aca-96dc-49ef9cdcc411",
+    "FusionType": "radius mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "WU3C-D8-L32 - SpeTool W04902 UP CUT 3 FL 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUGHING CUTTER",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "WU3C-D8-L32",
+    "Description": "SpeTool W04902 UP CUT 3 FL 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUGHING CUTTER",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-up-cut-3-fl-8mm-dia-x-32mm-cl-x-8mm-shank-x-75mm-ovl-roughing-cutter",
+    "FusionGUID": "a68af107-a7e0-4496-ae17-21ca2c2be808",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

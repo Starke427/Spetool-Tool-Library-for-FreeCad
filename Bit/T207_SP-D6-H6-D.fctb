@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP-D6-H6-D - SpeTool W04507 DOWN CUT 2 FL 6MM DIA x 24MM CL x 6MM SHANK x 60MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "24.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "60.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP-D6-H6-D",
+    "Description": "SpeTool W04507 DOWN CUT 2 FL 6MM DIA x 24MM CL x 6MM SHANK x 60MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-down-cut-2-fl-6mm-dia-x-24mm-cl-x-6mm-shank-x-60mm-ovl-router-bit",
+    "FusionGUID": "c1af5d14-ef87-4bfe-b743-c181a1568109",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

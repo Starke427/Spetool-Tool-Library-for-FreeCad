@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP-D4-L22-D - SpeTool W04503 Spiral Plunge 4mm Dia x 4mm Shank x 22mm Cutting Length x 50mm Long 2 Flute Down-Cut Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "22.0000 mm",
+    "Diameter": "4.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "4.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP-D4-L22-D",
+    "Description": "SpeTool W04503 Spiral Plunge 4mm Dia x 4mm Shank x 22mm Cutting Length x 50mm Long 2 Flute Down-Cut Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-uk-sc-spiral-plunge-4mm-dia-x-4mm-shank-x-22mm-cutting-length-x-50mm-long-2-flute-down-cut-router-bit",
+    "FusionGUID": "20147d91-856a-48f5-ac6d-83a4151183ad",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

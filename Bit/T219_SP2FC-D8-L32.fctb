@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP2FC-D8-L32 - SpeTool W02507 COMPRESSION 2 FL 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP2FC-D8-L32",
+    "Description": "SpeTool W02507 COMPRESSION 2 FL 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-8mm-dia-x-32mm-cl-x-8mm-shank-x-75mm-ovl-router-bit",
+    "FusionGUID": "2ef3a945-368d-48a9-9eb2-7856ce87e3bb",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

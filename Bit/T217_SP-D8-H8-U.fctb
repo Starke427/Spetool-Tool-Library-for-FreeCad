@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP-D8-H8-U - SpeTool W04510 UP CUT 2 FL 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP-D8-H8-U",
+    "Description": "SpeTool W04510 UP CUT 2 FL 8MM DIA x 32MM CL x 8MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/de-spetool-upcut-8-mm-schnittdurchmesser-router-bit",
+    "FusionGUID": "343b19ca-b5aa-4a68-a1fe-2c16a09bf6b9",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

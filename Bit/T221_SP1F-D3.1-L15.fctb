@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP1F-D3.1-L15 - SpeTool W03501 O FLUTE 3.175MM DIA x 15MM CL x 3.175MM SHANK x 38.1MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "15.0000 mm",
+    "Diameter": "3.1750 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP1F-D3.1-L15",
+    "Description": "SpeTool W03501 O FLUTE 3.175MM DIA x 15MM CL x 3.175MM SHANK x 38.1MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-3-175mm-dia-x-15mm-cl-x-3-175mm-shank-x-38-1mm-ovl-router-bit",
+    "FusionGUID": "4da3c84d-28e6-42be-883a-39328ccca140",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

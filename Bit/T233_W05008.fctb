@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05008 - SpeTool W05008 2+2 FLUTES SPOILBOARD 45MM DIA x 12MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "45.0000 mm",
+    "Length": "60.0000 mm",
+    "ShankDiameter": "12.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05008",
+    "Description": "SpeTool W05008 2+2 FLUTES SPOILBOARD 45MM DIA x 12MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-w05008-2-2-flutes-spoilboard-45mm-dia-x-12mm-shank",
+    "FusionGUID": "93fa0b2f-83be-4b2d-b340-be19b6147212",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05004 - SpeTool W05004 Insert Mini Surfacing & Rabbeting Flycutter 2+2 Flute Design 1-1/4\" Diameter x 1/4\" Shank Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "10.0000 mm",
+    "Diameter": "31.7500 mm",
+    "Length": "45.0000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05004",
+    "Description": "SpeTool W05004 Insert Mini Surfacing & Rabbeting Flycutter 2+2 Flute Design 1-1/4\" Diameter x 1/4\" Shank Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w05004-spoilboard-surfacing-router-bit-2-2-flute-1-1-4-inch-dia-1-4-shank",
+    "FusionGUID": "4693cc6b-333b-4fe0-84c4-5fd5befab7b0",
+    "FusionType": "face mill",
+    "FusionUnit": "inches"
+  }
+}

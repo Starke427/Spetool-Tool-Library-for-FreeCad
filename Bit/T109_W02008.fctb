@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W02008 - SpeTool W02008 5Pcs SC Compression Spiral 1/8\" Dia x 1/8\" Shank x 1\" Cutting Length x 2\" Long 2 Flute Router Bits",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "25.4000 mm",
+    "Diameter": "3.1750 mm",
+    "Length": "50.8000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W02008",
+    "Description": "SpeTool W02008 5Pcs SC Compression Spiral 1/8\" Dia x 1/8\" Shank x 1\" Cutting Length x 2\" Long 2 Flute Router Bits",
+    "ProductLink": "https://spetools.com/products/spetool-w02008-spiral-compression-router-bits-1-8-inch-dia-1-8-shank-2-long",
+    "FusionGUID": "320eb652-5cb0-41a6-af12-cfef83fcaa58",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

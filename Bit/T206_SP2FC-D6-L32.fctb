@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "SP2FC-D6-L32 - SpeTool W02506 COMPRESSION 2 FL 6MM DIA x 32MM CL x 6MM SHANK x 75MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "SP2FC-D6-L32",
+    "Description": "SpeTool W02506 COMPRESSION 2 FL 6MM DIA x 32MM CL x 6MM SHANK x 75MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-6mm-dia-x-32mm-cl-x-6mm-shank-x-75mm-ovl-router-bit",
+    "FusionGUID": "020fa71e-4ad0-4453-9c72-34d83712ef14",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

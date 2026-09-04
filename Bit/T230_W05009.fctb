@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05009 - SpeTool W05009 4 FLUTES SPOILBOARD 40MM DIA x 8MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "10.5000 mm",
+    "Diameter": "40.0000 mm",
+    "Length": "53.2800 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "4",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05009",
+    "Description": "SpeTool W05009 4 FLUTES SPOILBOARD 40MM DIA x 8MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-w05009-4-flutes-spoilboard-40mm-dia-x-8mm-shank",
+    "FusionGUID": "54e90408-26e5-4349-94c6-30d32799b721",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}
