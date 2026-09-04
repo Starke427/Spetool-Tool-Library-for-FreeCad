@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W01505 - SpeTool W01505 0.25mm Radius x 6mm Shank x 30.5mm Cutting Length x 75mm Long 2 Flute Upcut Router Bit",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "5.2000 °",
+    "CuttingEdgeHeight": "30.5000 mm",
+    "Diameter": "0.5000 mm",
+    "TipDiameter": "0.5000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W01505",
+    "Description": "SpeTool W01505 0.25mm Radius x 6mm Shank x 30.5mm Cutting Length x 75mm Long 2 Flute Upcut Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-cnc-0-25-mm-radius-6-mm-schaft-hsi-3d-gravur",
+    "FusionGUID": "401248fe-93c2-419d-9dd9-b1f18c3b62e2",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

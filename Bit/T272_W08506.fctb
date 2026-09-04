@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W08506 - SpeTool W08506 90° Round Nose Router Bit - 24mm Diameter x 12mm Groove x 8mm Shank – Tungsten Carbide V-Groove Bit for Juice Grooves, Engraving & Bowl Routing",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "0.0000 °",
+    "CuttingEdgeHeight": "8.0000 mm",
+    "Diameter": "24.0000 mm",
+    "TipDiameter": "24.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08506",
+    "Description": "SpeTool W08506 90° Round Nose Router Bit - 24mm Diameter x 12mm Groove x 8mm Shank – Tungsten Carbide V-Groove Bit for Juice Grooves, Engraving & Bowl Routing",
+    "ProductLink": "https://spetools.com/en-eu/products/90-degree-round-router-bit-8mm-shank",
+    "FusionGUID": "1b2ea1fa-41f6-4cb8-88b1-5020b325c5c3",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

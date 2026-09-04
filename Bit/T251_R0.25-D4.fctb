@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "R0.25-D4 - SpeTool W01507 0.25mm Radius x 4mm Shank x 20.5mm Cutting Length x 50mm Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "5.1200 °",
+    "CuttingEdgeHeight": "20.5000 mm",
+    "Diameter": "0.5000 mm",
+    "TipDiameter": "0.5000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "4.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "R0.25-D4",
+    "Description": "SpeTool W01507 0.25mm Radius x 4mm Shank x 20.5mm Cutting Length x 50mm Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-4-stuck-3d-gravur",
+    "FusionGUID": "c8ab59c3-1bcc-41a1-9154-4481f540db50",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

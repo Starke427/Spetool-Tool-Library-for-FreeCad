@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W2B-R3.0-L24 - SpeTool W04801 Ball End Mill 6 mm Cutting Diameter 6 mm Shank 24 mm Cutting Length Double Flute Router Bit Solid Carbide Milling Cutter for DIY Woodworking Carving Engraving",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "24.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W2B-R3.0-L24",
+    "Description": "SpeTool W04801 Ball End Mill 6 mm Cutting Diameter 6 mm Shank 24 mm Cutting Length Double Flute Router Bit Solid Carbide Milling Cutter for DIY Woodworking Carving Engraving",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-ball-end-mill-6-mm-cutting-diameter-6-mm-shank-24-mm-cutting-length-double-flute-router-bit-solid-carbide-milling-cutter-for-diy-woodworking-carving-engraving",
+    "FusionGUID": "88949f54-441d-4ddc-9edc-10bd630ba0d0",
+    "FusionType": "ball end mill",
+    "FusionUnit": "millimeters"
+  }
+}

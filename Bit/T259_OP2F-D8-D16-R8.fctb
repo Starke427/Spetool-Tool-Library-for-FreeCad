@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "OP2F-D8-D16-R8 - SpeTool W09501 Carbide Tipped Round Over 8mm Radius x 16mm Cutting Diameter x 8mm Shank x 50mm Overall Length 2 Flute Router Bit",
+  "shape": "bullnose.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "16.0000 mm",
+    "Diameter": "0.7000 mm",
+    "FlatRadius": "8.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "OP2F-D8-D16-R8",
+    "Description": "SpeTool W09501 Carbide Tipped Round Over 8mm Radius x 16mm Cutting Diameter x 8mm Shank x 50mm Overall Length 2 Flute Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-carbide-tipped-round-over-8mm-radius-x-16mm-cutting-diameter-x-8mm-shank-x-50mm-overall-length-2-flute-router-bit",
+    "FusionGUID": "0927aab3-9e0f-4e2d-a702-96d84a6d52dd",
+    "FusionType": "radius mill",
+    "FusionUnit": "millimeters"
+  }
+}

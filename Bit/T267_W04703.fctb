@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W04703 - SpeTool W04703 8MM DIA x 8MM SHANK x 32MM CL x 75MM OVL Straight End Milling Cutter",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "8.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W04703",
+    "Description": "SpeTool W04703 8MM DIA x 8MM SHANK x 32MM CL x 75MM OVL Straight End Milling Cutter",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-8mm-dia-x-8mm-shank-x-32mm-cl-x-75mm-ovl-straight-end-milling-cutter",
+    "FusionGUID": "cf278d4b-a99b-4fb8-a948-fbbc84382705",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

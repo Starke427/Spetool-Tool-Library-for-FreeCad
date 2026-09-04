@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "W08505 - SpeTool W08505 6mm Radius Bowl & Juice Groove Router Bit - 12mm Shank, 2-Flute Tungsten Carbide Cutter for Trays, Drainage Grooves & Decorative Edges",
+  "shape": "bullnose.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "32.0000 mm",
+    "FlatRadius": "6.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "12.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08505",
+    "Description": "SpeTool W08505 6mm Radius Bowl & Juice Groove Router Bit - 12mm Shank, 2-Flute Tungsten Carbide Cutter for Trays, Drainage Grooves & Decorative Edges",
+    "ProductLink": "https://spetools.com/en-eu/products/6mm-radius-juice-groove-bit-12mm-shank",
+    "FusionGUID": "f8a16d31-4eb4-485c-bb85-bd47016ed383",
+    "FusionType": "radius mill",
+    "FusionUnit": "millimeters"
+  }
+}

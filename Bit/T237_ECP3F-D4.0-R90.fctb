@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "ECP3F-D4.0-R90 - SpeTool W06507 4MM SHANK x 90 Degree x 50MM OVL x 3 Flutes V Groove Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "90.0000 °",
+    "CuttingEdgeHeight": "2.0000 mm",
+    "Diameter": "4.0000 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "4.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "ECP3F-D4.0-R90",
+    "Description": "SpeTool W06507 4MM SHANK x 90 Degree x 50MM OVL x 3 Flutes V Groove Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-3-floten-v-nutfraser-4-mm-schaft-90-grad",
+    "FusionGUID": "978571ce-25bc-429b-a88f-c60a66b8bd57",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "millimeters"
+  }
+}

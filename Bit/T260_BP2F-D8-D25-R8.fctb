@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "BP2F-D8-D25-R8 - SpeTool W08501 Carbide Tipped Bowl & Tray 25mm Dia x 8mm Shank x 18mm Cutting Length x 53mm Long Double Flute Router Bit",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "0.0000 °",
+    "CuttingEdgeHeight": "18.0000 mm",
+    "Diameter": "25.0000 mm",
+    "TipDiameter": "25.0000 mm",
+    "Length": "53.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "BP2F-D8-D25-R8",
+    "Description": "SpeTool W08501 Carbide Tipped Bowl & Tray 25mm Dia x 8mm Shank x 18mm Cutting Length x 53mm Long Double Flute Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-carbide-tipped-bowl-tray-25mm-dia-x-8mm-shank-x-18mm-cutting-length-x-53mm-long-double-flute-router-bit",
+    "FusionGUID": "10b12656-9e2e-4213-b3e1-c8fc955c6957",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

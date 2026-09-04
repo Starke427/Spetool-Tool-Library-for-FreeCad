@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "D12-D8-60 - SpeTool W06503 Carbide Tipped V Groove 60 Deg 12mm Dia x 8mm Shank x 51mm Long Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "60.0000 °",
+    "CuttingEdgeHeight": "10.3920 mm",
+    "Diameter": "12.0000 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "51.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "D12-D8-60",
+    "Description": "SpeTool W06503 Carbide Tipped V Groove 60 Deg 12mm Dia x 8mm Shank x 51mm Long Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-carbide-tipped-v-groove-60-deg-12mm-dia-x-8mm-shank-x-51mm-long-router-bit",
+    "FusionGUID": "b1cc6cb1-d7fe-4e2a-b888-c8a5104aa89c",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "millimeters"
+  }
+}

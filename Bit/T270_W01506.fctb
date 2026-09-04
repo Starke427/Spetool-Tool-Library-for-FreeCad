@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W01506 - SpeTool W01506 0.25mm Radius x 1/8\" Shank x 15mm Cutting Length x 1-1/2\" Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "5.0500 °",
+    "CuttingEdgeHeight": "15.0000 mm",
+    "Diameter": "0.5000 mm",
+    "TipDiameter": "0.5000 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W01506",
+    "Description": "SpeTool W01506 0.25mm Radius x 1/8\" Shank x 15mm Cutting Length x 1-1/2\" Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+    "ProductLink": "https://spetools.com/en-eu/products/2-floten-0-25-mm-radius-3-175-mm-1-8-schaft-tialn-beschichtung-vhm-gravierfraser-fur-oberfrase-2d-und-3d-gravur",
+    "FusionGUID": "4a16be8e-eac3-402e-ad8e-c1215c7095ae",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

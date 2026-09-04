@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "IECP1F-D8-R90 - SpeTool Insert Carbide V Groove 90 Deg x 8mm Shank x 52.5mm Long Single Flute Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "90.0000 °",
+    "CuttingEdgeHeight": "8.4850 mm",
+    "Diameter": "16.9700 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "52.5000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "IECP1F-D8-R90",
+    "Description": "SpeTool Insert Carbide V Groove 90 Deg x 8mm Shank x 52.5mm Long Single Flute Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-insert-carbide-v-groove-90-deg-x-8mm-shank-x-52-5mm-long-single-flute-router-bit",
+    "FusionGUID": "89b87baa-31c5-434f-9d23-3b394a653d90",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "millimeters"
+  }
+}

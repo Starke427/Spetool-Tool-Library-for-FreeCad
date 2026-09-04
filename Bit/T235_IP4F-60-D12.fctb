@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "IP4F-60-D12 - SpeTool 4 FLUTES SPOILBOARD 60MM DIA x 12MM SHANK",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "60.0000 mm",
+    "Length": "70.0000 mm",
+    "ShankDiameter": "12.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "IP4F-60-D12",
+    "Description": "SpeTool 4 FLUTES SPOILBOARD 60MM DIA x 12MM SHANK",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-4-flutes-spoilboard-60mm-dia-x-12mm-shank",
+    "FusionGUID": "33818cab-bbfb-46cb-85bd-18dd86997e23",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

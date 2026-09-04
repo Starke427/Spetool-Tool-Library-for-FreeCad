@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W04702 - SpeTool W04702 3 Flutes Straight Carbide Tungsten Carbide Tip Router Bit 6mm Shank Diameter 32mm Cutting Length Carving CNC Trimming Slot Chip Breaker Plywood End Mill for Woodworking",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W04702",
+    "Description": "SpeTool W04702 3 Flutes Straight Carbide Tungsten Carbide Tip Router Bit 6mm Shank Diameter 32mm Cutting Length Carving CNC Trimming Slot Chip Breaker Plywood End Mill for Woodworking",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-8mm-shank-diameter-straight-carbide-tungsten-carbide-tip-cutter-32mm-cutting-length-3-flutes-carving-cnc-trimming-slot-chip-breaker-plywood-end-mill-for-woodworking",
+    "FusionGUID": "5f10a2ae-1db9-4ad8-8d90-c3983953b875",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "D6-30-0.2T - SpeTool W06505 Solid Carbide 30 Degree Engraving 0.2mm Tip Width x 6mm Shank x 50mm Long Signmaking Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "30.0000 °",
+    "CuttingEdgeHeight": "11.1200 mm",
+    "Diameter": "6.0000 mm",
+    "FlatRadius": "0.2000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "D6-30-0.2T",
+    "Description": "SpeTool W06505 Solid Carbide 30 Degree Engraving 0.2mm Tip Width x 6mm Shank x 50mm Long Signmaking Router Bit",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-spe-x-extra-tool-life-coated-solid-carbide-30-degree-engraving-0-2mm-tip-width-x-6mm-shank-x-50mm-long-signmaking-router-bit",
+    "FusionGUID": "0ff139ff-14a3-49db-92bc-871e1d7840d2",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "millimeters"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "AU3E-D6.0-L18-H6-T60 - SpeTool A01501 Solid Carbide 3 Flutes Aluminium Milling Cutter with 6 mm Cutting Diameter x 18 mm Cutting Length, 6 mm Shank End Mill for Aluminium and Plastic",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "18.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "60.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "AU3E-D6.0-L18-H6-T60",
+    "Description": "SpeTool A01501 Solid Carbide 3 Flutes Aluminium Milling Cutter with 6 mm Cutting Diameter x 18 mm Cutting Length, 6 mm Shank End Mill for Aluminium and Plastic",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-solid-carbide-3-flutes-aluminium-milling-cutter-with-6-mm-cutting-diameter",
+    "FusionGUID": "c7676c6e-2eeb-4201-a383-dd3f1b610825",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

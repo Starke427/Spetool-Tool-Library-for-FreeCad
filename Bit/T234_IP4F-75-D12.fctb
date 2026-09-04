@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "IP4F-75-D12 - SpeTool W05502 2+2 FLUTES SPOILBOARD 75MM DIA x 12MM SHANK ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "75.0000 mm",
+    "Length": "72.0000 mm",
+    "ShankDiameter": "12.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "IP4F-75-D12",
+    "Description": "SpeTool W05502 2+2 FLUTES SPOILBOARD 75MM DIA x 12MM SHANK ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-2-2-flutes-spoilboard-75mm-dia-x-12mm-shank",
+    "FusionGUID": "efd6bbd1-7675-4887-94f7-a8e449319410",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

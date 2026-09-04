@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05503 - SpeTool W05503 3 FLUTES SPOILBOARD 38.1MM DIA x 8MM SHANK x 50MM OVL ROUTER BIT",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "38.1000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05503",
+    "Description": "SpeTool W05503 3 FLUTES SPOILBOARD 38.1MM DIA x 8MM SHANK x 50MM OVL ROUTER BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-3-flutes-spoilboard-38-11mm-dia-x-8mm-shank-x-50mm-ovl-router-bit",
+    "FusionGUID": "c83815fb-e8d2-4001-a656-27b79e18c94d",
+    "FusionType": "face mill",
+    "FusionUnit": "millimeters"
+  }
+}

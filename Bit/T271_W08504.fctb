@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "W08504 - SpeTool W08504 4mm Radius Bowl & Juice Groove Router Bit - 8mm Shank, 2-Flute Tungsten Carbide Cutter for Cutting Boards, Trays & Custom Wood Projects",
+  "shape": "bullnose.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "8.0000 mm",
+    "Diameter": "12.0000 mm",
+    "FlatRadius": "4.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "8.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W08504",
+    "Description": "SpeTool W08504 4mm Radius Bowl & Juice Groove Router Bit - 8mm Shank, 2-Flute Tungsten Carbide Cutter for Cutting Boards, Trays & Custom Wood Projects",
+    "ProductLink": "https://spetools.com/en-eu/products/4mm-radius-juice-groove-bit-8mm-shank",
+    "FusionGUID": "d52f95e2-78e2-486f-8439-7221ccc800d6",
+    "FusionType": "radius mill",
+    "FusionUnit": "millimeters"
+  }
+}

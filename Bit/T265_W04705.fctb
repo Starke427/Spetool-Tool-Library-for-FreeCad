@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W04705 - SpeTool W04705 6MM DIA x 6MM SHANK x 32MM CL x 75MM OVL Straight End Milling Cutter",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "32.0000 mm",
+    "Diameter": "6.0000 mm",
+    "Length": "75.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W04705",
+    "Description": "SpeTool W04705 6MM DIA x 6MM SHANK x 32MM CL x 75MM OVL Straight End Milling Cutter",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-eu-6mm-dia-x-6mm-shank-x-32mm-cl-x-75mm-ovl-straight-end-milling-cutter",
+    "FusionGUID": "99314f7a-f1f9-4d0c-8fdb-dc4baf59b3c6",
+    "FusionType": "flat end mill",
+    "FusionUnit": "millimeters"
+  }
+}

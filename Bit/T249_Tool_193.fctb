@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "SpeTool W01003 0.75mm Radius x 1/8\" Shank x 15mm Cutting Length x 1-1/2\" Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "3.2000 °",
+    "CuttingEdgeHeight": "15.0000 mm",
+    "Diameter": "1.5000 mm",
+    "TipDiameter": "1.5000 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "",
+    "Description": "SpeTool W01003 0.75mm Radius x 1/8\" Shank x 15mm Cutting Length x 1-1/2\" Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+    "ProductLink": "",
+    "FusionGUID": "c0aa9527-4891-482c-8941-8dad5cf5bead",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

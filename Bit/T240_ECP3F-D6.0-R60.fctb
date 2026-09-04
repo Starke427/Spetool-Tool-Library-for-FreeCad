@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "ECP3F-D6.0-R60 - SpeTool W06508 3 FL 6MM DIA x 60 DEG x 6MM SHANK x 50MM OVL V BIT",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "60.0000 °",
+    "CuttingEdgeHeight": "5.2000 mm",
+    "Diameter": "6.0000 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "50.0000 mm",
+    "ShankDiameter": "6.0000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "ECP3F-D6.0-R60",
+    "Description": "SpeTool W06508 3 FL 6MM DIA x 60 DEG x 6MM SHANK x 50MM OVL V BIT",
+    "ProductLink": "https://spetools.com/en-eu/products/spetool-3-floten-v-nutfraser-6-mm-schaft-60-grad",
+    "FusionGUID": "cff9e4c3-85d0-4186-9e0a-ae6ed489b229",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "millimeters"
+  }
+}
