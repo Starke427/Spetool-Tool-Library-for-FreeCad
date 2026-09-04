@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "A02004 - A02004 3 Flutes Aluminum Router Bit 5/16\" CD x 3/4\" CL x 1/4\" SD Extra Long 4\" OVL Extra Long ZrN Coating(AU3EL-D1/4-C5/16-ZrN)",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "19.0500 mm",
+    "Diameter": "7.9375 mm",
+    "Length": "101.6000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "A02004",
+    "Description": "A02004 3 Flutes Aluminum Router Bit 5/16\" CD x 3/4\" CL x 1/4\" SD Extra Long 4\" OVL Extra Long ZrN Coating(AU3EL-D1/4-C5/16-ZrN)",
+    "ProductLink": "",
+    "FusionGUID": "4326d6a0-c928-4c32-a8ad-98cbb46128b9",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

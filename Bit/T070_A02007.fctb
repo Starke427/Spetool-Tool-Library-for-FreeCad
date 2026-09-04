@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "A02007 - A02007 3 Flutes Aluminum Router Bit 5/16\" CD x 3/4\" CL x 1/4\" SD Extra Long 3\" OVL(AU3ES-D1/4-C5/16)",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "19.0500 mm",
+    "Diameter": "7.9375 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "A02007",
+    "Description": "A02007 3 Flutes Aluminum Router Bit 5/16\" CD x 3/4\" CL x 1/4\" SD Extra Long 3\" OVL(AU3ES-D1/4-C5/16)",
+    "ProductLink": "",
+    "FusionGUID": "ce127b7e-df8d-4575-ad7f-ed1173c3ed0c",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

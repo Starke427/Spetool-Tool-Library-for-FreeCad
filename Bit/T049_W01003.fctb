@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W01003 - SpeTool W01003 5Pcs CNC 2D and 3D Carving 3.2 Deg Tapered Angle Ball Nose 0.75mm Radius x 1/8\" Shank x 15mm Cutting Length x 1-1/2\" Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "3.2000 °",
+    "CuttingEdgeHeight": "15.0000 mm",
+    "Diameter": "1.5000 mm",
+    "TipDiameter": "1.5000 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W01003",
+    "Description": "SpeTool W01003 5Pcs CNC 2D and 3D Carving 3.2 Deg Tapered Angle Ball Nose 0.75mm Radius x 1/8\" Shank x 15mm Cutting Length x 1-1/2\" Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+    "ProductLink": "https://spetools.com/products/spetool-w01003-2d-3d-carving-engraving-tapered-ball-nose-router-bit-radius-0-75mm-1-8-shank",
+    "FusionGUID": "04a55183-608d-49b0-aae6-9aad3df96305",
+    "FusionType": "tapered mill",
+    "FusionUnit": "millimeters"
+  }
+}

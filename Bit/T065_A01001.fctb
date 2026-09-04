@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "A01001 - SpeTool A01001 CNC SC Spiral Aluminum Cutting 1/2\" Dia x 2\" Cutting Length x 1/2\" Shank x 4\" Extra Long 3 Flute Up Cut Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "50.8000 mm",
+    "Diameter": "12.7000 mm",
+    "Length": "101.6000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "A01001",
+    "Description": "SpeTool A01001 CNC SC Spiral Aluminum Cutting 1/2\" Dia x 2\" Cutting Length x 1/2\" Shank x 4\" Extra Long 3 Flute Up Cut Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-a01001-carbide-aluminum-up-cut-end-mill-router-bits-3-flute-1-2-dia-1-2-shank-4-inch-extra-long",
+    "FusionGUID": "3fd1c84f-bb7a-47db-8047-b540d99d2cc3",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M03004 - SpeTool M03004 5Pcs CNC SC Spiral for Steel, Stainless Steel with TiAlN Coating 2-Flute 1/16\" Dia x 1/8\" Shank x 3/16\" Cutting Length x 1-1/2\" Long Ball Nose Up Cut End Mills",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "4.7625 mm",
+    "Diameter": "1.5875 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M03004",
+    "Description": "SpeTool M03004 5Pcs CNC SC Spiral for Steel, Stainless Steel with TiAlN Coating 2-Flute 1/16\" Dia x 1/8\" Shank x 3/16\" Cutting Length x 1-1/2\" Long Ball Nose Up Cut End Mills",
+    "ProductLink": "https://spetools.com/products/spetool-m03004-stainless-steel-up-cut-end-mill-ball-nose-2-flute-1-16-dia-1-8-shank",
+    "FusionGUID": "36439994-06f9-404d-a6ea-7ab40c949bea",
+    "FusionType": "ball end mill",
+    "FusionUnit": "inches"
+  }
+}

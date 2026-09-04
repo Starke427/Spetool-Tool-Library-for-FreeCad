@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M05002 - 5Pcs M05002 2 Flutes Carbide End Mill Flat Top 5/16\" CD x 5/16\" SD x 13/16\" CL(P2E-D5/16-5PCS-FBA)",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "20.6375 mm",
+    "Diameter": "7.9375 mm",
+    "Length": "63.5000 mm",
+    "ShankDiameter": "7.9375 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M05002",
+    "Description": "5Pcs M05002 2 Flutes Carbide End Mill Flat Top 5/16\" CD x 5/16\" SD x 13/16\" CL(P2E-D5/16-5PCS-FBA)",
+    "ProductLink": "",
+    "FusionGUID": "93588bce-55d4-475c-bd0d-8e5fdf81fcce",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M04002 - M04002 2 Flutes Carbide End Mill Flat Top 3/8\" CD x 3/8\" SD x 1-1/8\" CL Extra Long(P2EL-D3/8-FBA)",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "28.5750 mm",
+    "Diameter": "9.5250 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "9.5250 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M04002",
+    "Description": "M04002 2 Flutes Carbide End Mill Flat Top 3/8\" CD x 3/8\" SD x 1-1/8\" CL Extra Long(P2EL-D3/8-FBA)",
+    "ProductLink": "",
+    "FusionGUID": "85fca76f-0ca2-4c4f-b747-87bce906ab3a",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

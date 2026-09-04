@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W06003 - SpeTool W06003 2 Flutes V Bit 60 Deg 3/4\" CD x1/4\" SD(ECP2F-D3/4-60)",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "60.0000 °",
+    "CuttingEdgeHeight": "16.4978 mm",
+    "Diameter": "19.0500 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "63.5000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W06003",
+    "Description": "SpeTool W06003 2 Flutes V Bit 60 Deg 3/4\" CD x1/4\" SD(ECP2F-D3/4-60)",
+    "ProductLink": "",
+    "FusionGUID": "eca9a3c7-1c70-4628-90da-e0ea8a7446da",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "inches"
+  }
+}

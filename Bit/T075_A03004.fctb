@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "A03004 - SpeTool A03004 5Pcs CNC SC Spiral Aluminum Cutting 1/8\" Dia x 7/16\" Cutting Length x 1/8\" Shank x 1-1/2\" Long 3 Flute Up Cut Router Bits",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "11.1125 mm",
+    "Diameter": "3.1750 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "A03004",
+    "Description": "SpeTool A03004 5Pcs CNC SC Spiral Aluminum Cutting 1/8\" Dia x 7/16\" Cutting Length x 1/8\" Shank x 1-1/2\" Long 3 Flute Up Cut Router Bits",
+    "ProductLink": "https://spetools.com/products/spetool-a03004-carbide-aluminum-up-cut-end-mill-router-bits-3-flute-1-8-dia-1-8-shank",
+    "FusionGUID": "6a80faca-45ca-4b87-ae5b-7dfa750ed34a",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

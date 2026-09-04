@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W06007 - SpeTool W06007 Solid Carbide V Groove 90 Deg 1/4\" Dia x 1/4\" Shank x 2\" Long 4 Flute TiAlN Coated Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "90.0000 °",
+    "CuttingEdgeHeight": "3.1750 mm",
+    "Diameter": "6.3500 mm",
+    "FlatRadius": "0.0000 mm",
+    "Length": "50.8000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "4",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W06007",
+    "Description": "SpeTool W06007 Solid Carbide V Groove 90 Deg 1/4\" Dia x 1/4\" Shank x 2\" Long 4 Flute TiAlN Coated Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w06007-v-groove-chamfer-router-bit-1-4-dia-1-4-shank-90-deg",
+    "FusionGUID": "980648ea-cbfc-4472-8dda-35e059ae9a2e",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "inches"
+  }
+}

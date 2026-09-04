@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "A02010 - A02010 3 Flutes Aluminum Router Bit 1/4\" CD x 1\" CL x 1/4\" SD Extra Long 4\" OVL Extra Long SPE-X Coating(AU3EXL-D1/4-STaC)",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "25.4000 mm",
+    "Diameter": "6.3500 mm",
+    "Length": "101.6000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "A02010",
+    "Description": "A02010 3 Flutes Aluminum Router Bit 1/4\" CD x 1\" CL x 1/4\" SD Extra Long 4\" OVL Extra Long SPE-X Coating(AU3EXL-D1/4-STaC)",
+    "ProductLink": "",
+    "FusionGUID": "78f194c7-0148-49f2-994d-f8a26b4e12e1",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

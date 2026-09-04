@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M05001 - M05001 2 Flutes Carbide End Mill Ball Nose 5/16\" CD x 5/16\" SD x 1-1/8\" CL Extra Long(P2BL-D5/16-FBA)",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "28.5750 mm",
+    "Diameter": "7.9375 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "7.9375 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M05001",
+    "Description": "M05001 2 Flutes Carbide End Mill Ball Nose 5/16\" CD x 5/16\" SD x 1-1/8\" CL Extra Long(P2BL-D5/16-FBA)",
+    "ProductLink": "",
+    "FusionGUID": "a66860a8-9760-4752-b85a-63b3dfd12fe2",
+    "FusionType": "ball end mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W05003 - SpeTool W05003 CNC Spoilboard Insert Carbide 4 Wing, Surfacing, Planing, Flycutting & Slab Leveler 2-1/2\" Diameter x 1/2\" Shank Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "12.0000 mm",
+    "Diameter": "63.5000 mm",
+    "Length": "72.0000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "4",
+    "Material": "unspecified",
+    "Vendor": "SpeTool",
+    "ProductId": "W05003",
+    "Description": "SpeTool W05003 CNC Spoilboard Insert Carbide 4 Wing, Surfacing, Planing, Flycutting & Slab Leveler 2-1/2\" Diameter x 1/2\" Shank Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w05003-spoilboard-surfacing-router-bit-4-flute-2-1-2-inch-dia-1-2-shank",
+    "FusionGUID": "9b045710-b738-488e-89a9-9aa2c770e754",
+    "FusionType": "face mill",
+    "FusionUnit": "inches"
+  }
+}

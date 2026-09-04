@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M05003 - SpeTool M05003 CNC SC Spiral for Steel, Stainless Steel with TiAlN Coating 2-Flute 5/16\" Dia x 5/16\" Shank x 1-1/8\" Cutting Length x 3\" Long Flat Top Up Cut End Mill",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "28.5750 mm",
+    "Diameter": "7.9375 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "7.9375 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M05003",
+    "Description": "SpeTool M05003 CNC SC Spiral for Steel, Stainless Steel with TiAlN Coating 2-Flute 5/16\" Dia x 5/16\" Shank x 1-1/8\" Cutting Length x 3\" Long Flat Top Up Cut End Mill",
+    "ProductLink": "https://spetools.com/products/spetool-m05003-carbide-end-mill-cnc-router-bits-5-16",
+    "FusionGUID": "7e1f563e-a4a5-43d2-a124-085a325c3460",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "W06008 - SpeTool W06008 SPE-X Extra Tool Life Coated Solid Carbide 20 Degree Engraving 0.005\" Tip Width x 1/4\" Shank x 2-1/4\" Long Signmaking Router Bit",
+  "shape": "chamfer.fcstd",
+  "parameter": {
+    "CuttingEdgeAngle": "20.0000 °",
+    "CuttingEdgeHeight": "17.6500 mm",
+    "Diameter": "6.3500 mm",
+    "FlatRadius": "0.1270 mm",
+    "Length": "57.1500 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W06008",
+    "Description": "SpeTool W06008 SPE-X Extra Tool Life Coated Solid Carbide 20 Degree Engraving 0.005\" Tip Width x 1/4\" Shank x 2-1/4\" Long Signmaking Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w06008-v-engrave-router-bit-005-inch-tip-dia-1-4-shank-20-deg",
+    "FusionGUID": "e6450a3d-f606-4b83-b122-369bd7dcbbda",
+    "FusionType": "chamfer mill",
+    "FusionUnit": "inches"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "M03002 - 5Pcs M03002 2 Flutes Carbide End Mill Ball Nose 3/32\" CD x 1/8\" SD x 9/32\" CL(P2B-3/32-5Pcs)",
+  "shape": "ballend.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "7.1437 mm",
+    "Diameter": "2.3812 mm",
+    "Length": "38.1000 mm",
+    "ShankDiameter": "3.1750 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "M03002",
+    "Description": "5Pcs M03002 2 Flutes Carbide End Mill Ball Nose 3/32\" CD x 1/8\" SD x 9/32\" CL(P2B-3/32-5Pcs)",
+    "ProductLink": "",
+    "FusionGUID": "bf6ca90d-c5c7-4327-a352-03f2786c29fa",
+    "FusionType": "ball end mill",
+    "FusionUnit": "inches"
+  }
+}

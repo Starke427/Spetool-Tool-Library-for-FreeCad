@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W04001 - SpeTool W04001 SC Spiral Plunge 3/8\" Dia x 1/2\" Shank x 1-1/4\" Cutting Length x 3\" Long 2 Flute Up-Cut Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "31.7500 mm",
+    "Diameter": "9.5250 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "12.7000 mm"
+  },
+  "attribute": {
+    "Flutes": "2",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W04001",
+    "Description": "SpeTool W04001 SC Spiral Plunge 3/8\" Dia x 1/2\" Shank x 1-1/4\" Cutting Length x 3\" Long 2 Flute Up-Cut Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w04001-spiral-up-cut-router-bit-3-8-dia-1-2-shank-3-extra-long",
+    "FusionGUID": "746a0827-4a5e-486e-ad5d-def2ad6551c0",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

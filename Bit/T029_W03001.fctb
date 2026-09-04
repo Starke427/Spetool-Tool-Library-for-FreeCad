@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "W03001 - SpeTool W03001 SC Spiral O Flute 1/4\" Dia x 1/4\" Shank x 1\" Cutting Length x 2-1/2\" Long Up-cut Router Bit",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "25.4000 mm",
+    "Diameter": "6.3500 mm",
+    "Length": "63.5000 mm",
+    "ShankDiameter": "6.3500 mm"
+  },
+  "attribute": {
+    "Flutes": "1",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "W03001",
+    "Description": "SpeTool W03001 SC Spiral O Flute 1/4\" Dia x 1/4\" Shank x 1\" Cutting Length x 2-1/2\" Long Up-cut Router Bit",
+    "ProductLink": "https://spetools.com/products/spetool-w03001-o-flute-up-cut-router-bit-1-4-dia-1-4-shank",
+    "FusionGUID": "a466047e-8500-490b-b0a1-f55edc582582",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}

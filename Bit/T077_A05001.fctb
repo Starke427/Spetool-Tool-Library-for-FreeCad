@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "A05001 - 5Pcs A05001 3 Flutes Aluminum Router Bit 5/16\" CD x 1\" CL x 5/16\" SD 3\" OVL(AU3E-D5/16-5PCS-FBA)",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "25.4000 mm",
+    "Diameter": "7.9375 mm",
+    "Length": "76.2000 mm",
+    "ShankDiameter": "7.9375 mm"
+  },
+  "attribute": {
+    "Flutes": "3",
+    "Material": "carbide",
+    "Vendor": "SpeTool",
+    "ProductId": "A05001",
+    "Description": "5Pcs A05001 3 Flutes Aluminum Router Bit 5/16\" CD x 1\" CL x 5/16\" SD 3\" OVL(AU3E-D5/16-5PCS-FBA)",
+    "ProductLink": "",
+    "FusionGUID": "378e5579-02c1-4074-8c8c-2c102b3521b8",
+    "FusionType": "flat end mill",
+    "FusionUnit": "inches"
+  }
+}
