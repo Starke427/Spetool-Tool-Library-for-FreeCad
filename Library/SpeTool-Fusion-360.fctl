@@ -1,0 +1,905 @@
+{
+  "tools": [
+    {
+      "nr": 4,
+      "path": "../Bit/T004_W04007.fctb"
+    },
+    {
+      "nr": 6,
+      "path": "../Bit/T006_W04012.fctb"
+    },
+    {
+      "nr": 45,
+      "path": "../Bit/T045_W01016.fctb"
+    },
+    {
+      "nr": 83,
+      "path": "../Bit/T083_M02004.fctb"
+    },
+    {
+      "nr": 49,
+      "path": "../Bit/T049_W01003.fctb"
+    },
+    {
+      "nr": 23,
+      "path": "../Bit/T023_W02002.fctb"
+    },
+    {
+      "nr": 98,
+      "path": "../Bit/T098_M02007.fctb"
+    },
+    {
+      "nr": 36,
+      "path": "../Bit/T036_W01007.fctb"
+    },
+    {
+      "nr": 90,
+      "path": "../Bit/T090_M03007.fctb"
+    },
+    {
+      "nr": 106,
+      "path": "../Bit/T106_W04022.fctb"
+    },
+    {
+      "nr": 44,
+      "path": "../Bit/T044_W01015.fctb"
+    },
+    {
+      "nr": 55,
+      "path": "../Bit/T055_W06002.fctb"
+    },
+    {
+      "nr": 34,
+      "path": "../Bit/T034_W01005.fctb"
+    },
+    {
+      "nr": 88,
+      "path": "../Bit/T088_M03006.fctb"
+    },
+    {
+      "nr": 52,
+      "path": "../Bit/T052_W05002.fctb"
+    },
+    {
+      "nr": 81,
+      "path": "../Bit/T081_M02002.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "../Bit/T003_W04005.fctb"
+    },
+    {
+      "nr": 26,
+      "path": "../Bit/T026_W02005.fctb"
+    },
+    {
+      "nr": 22,
+      "path": "../Bit/T022_W02001.fctb"
+    },
+    {
+      "nr": 66,
+      "path": "../Bit/T066_A02002.fctb"
+    },
+    {
+      "nr": 105,
+      "path": "../Bit/T105_M05005.fctb"
+    },
+    {
+      "nr": 87,
+      "path": "../Bit/T087_M03004.fctb"
+    },
+    {
+      "nr": 77,
+      "path": "../Bit/T077_A05001.fctb"
+    },
+    {
+      "nr": 13,
+      "path": "../Bit/T013_W04004.fctb"
+    },
+    {
+      "nr": 91,
+      "path": "../Bit/T091_M04001.fctb"
+    },
+    {
+      "nr": 17,
+      "path": "../Bit/T017_W04011.fctb"
+    },
+    {
+      "nr": 74,
+      "path": "../Bit/T074_A03003.fctb"
+    },
+    {
+      "nr": 65,
+      "path": "../Bit/T065_A01001.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "../Bit/T012_W04002.fctb"
+    },
+    {
+      "nr": 57,
+      "path": "../Bit/T057_W06005.fctb"
+    },
+    {
+      "nr": 24,
+      "path": "../Bit/T024_W02003.fctb"
+    },
+    {
+      "nr": 32,
+      "path": "../Bit/T032_W03004.fctb"
+    },
+    {
+      "nr": 68,
+      "path": "../Bit/T068_A02004.fctb"
+    },
+    {
+      "nr": 50,
+      "path": "../Bit/T050_W01004.fctb"
+    },
+    {
+      "nr": 30,
+      "path": "../Bit/T030_W03002.fctb"
+    },
+    {
+      "nr": 41,
+      "path": "../Bit/T041_W01012.fctb"
+    },
+    {
+      "nr": 76,
+      "path": "../Bit/T076_A04001.fctb"
+    },
+    {
+      "nr": 33,
+      "path": "../Bit/T033_W03005.fctb"
+    },
+    {
+      "nr": 20,
+      "path": "../Bit/T020_W04018.fctb"
+    },
+    {
+      "nr": 58,
+      "path": "../Bit/T058_W06006.fctb"
+    },
+    {
+      "nr": 78,
+      "path": "../Bit/T078_A05002.fctb"
+    },
+    {
+      "nr": 39,
+      "path": "../Bit/T039_W01010.fctb"
+    },
+    {
+      "nr": 75,
+      "path": "../Bit/T075_A03004.fctb"
+    },
+    {
+      "nr": 103,
+      "path": "../Bit/T103_M03010.fctb"
+    },
+    {
+      "nr": 51,
+      "path": "../Bit/T051_W05001.fctb"
+    },
+    {
+      "nr": 9,
+      "path": "../Bit/T009_W04017.fctb"
+    },
+    {
+      "nr": 35,
+      "path": "../Bit/T035_W01006.fctb"
+    },
+    {
+      "nr": 25,
+      "path": "../Bit/T025_W02004.fctb"
+    },
+    {
+      "nr": 48,
+      "path": "../Bit/T048_W01002.fctb"
+    },
+    {
+      "nr": 1,
+      "path": "../Bit/T001_W04001.fctb"
+    },
+    {
+      "nr": 19,
+      "path": "../Bit/T019_W04015.fctb"
+    },
+    {
+      "nr": 72,
+      "path": "../Bit/T072_A02010.fctb"
+    },
+    {
+      "nr": 101,
+      "path": "../Bit/T101_M03011.fctb"
+    },
+    {
+      "nr": 94,
+      "path": "../Bit/T094_M05003.fctb"
+    },
+    {
+      "nr": 15,
+      "path": "../Bit/T015_W04008.fctb"
+    },
+    {
+      "nr": 31,
+      "path": "../Bit/T031_W03003.fctb"
+    },
+    {
+      "nr": 61,
+      "path": "../Bit/T061_W06009.fctb"
+    },
+    {
+      "nr": 27,
+      "path": "../Bit/T027_W02006.fctb"
+    },
+    {
+      "nr": 92,
+      "path": "../Bit/T092_M04002.fctb"
+    },
+    {
+      "nr": 102,
+      "path": "../Bit/T102_M03009.fctb"
+    },
+    {
+      "nr": 80,
+      "path": "../Bit/T080_M02001.fctb"
+    },
+    {
+      "nr": 63,
+      "path": "../Bit/T063_A03001.fctb"
+    },
+    {
+      "nr": 79,
+      "path": "../Bit/T079_A05003.fctb"
+    },
+    {
+      "nr": 8,
+      "path": "../Bit/T008_W04016.fctb"
+    },
+    {
+      "nr": 95,
+      "path": "../Bit/T095_M05002.fctb"
+    },
+    {
+      "nr": 59,
+      "path": "../Bit/T059_W06007.fctb"
+    },
+    {
+      "nr": 62,
+      "path": "../Bit/T062_A02001.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "../Bit/T002_W04003.fctb"
+    },
+    {
+      "nr": 43,
+      "path": "../Bit/T043_W01014.fctb"
+    },
+    {
+      "nr": 53,
+      "path": "../Bit/T053_W05003.fctb"
+    },
+    {
+      "nr": 37,
+      "path": "../Bit/T037_W01008.fctb"
+    },
+    {
+      "nr": 71,
+      "path": "../Bit/T071_A02009.fctb"
+    },
+    {
+      "nr": 29,
+      "path": "../Bit/T029_W03001.fctb"
+    },
+    {
+      "nr": 93,
+      "path": "../Bit/T093_M05001.fctb"
+    },
+    {
+      "nr": 40,
+      "path": "../Bit/T040_W01011.fctb"
+    },
+    {
+      "nr": 69,
+      "path": "../Bit/T069_A02005.fctb"
+    },
+    {
+      "nr": 18,
+      "path": "../Bit/T018_W04013.fctb"
+    },
+    {
+      "nr": 54,
+      "path": "../Bit/T054_W06001.fctb"
+    },
+    {
+      "nr": 67,
+      "path": "../Bit/T067_A02003.fctb"
+    },
+    {
+      "nr": 38,
+      "path": "../Bit/T038_W01009.fctb"
+    },
+    {
+      "nr": 86,
+      "path": "../Bit/T086_M03002.fctb"
+    },
+    {
+      "nr": 7,
+      "path": "../Bit/T007_W04014.fctb"
+    },
+    {
+      "nr": 64,
+      "path": "../Bit/T064_A03002.fctb"
+    },
+    {
+      "nr": 108,
+      "path": "../Bit/T108_W04024.fctb"
+    },
+    {
+      "nr": 89,
+      "path": "../Bit/T089_M03005.fctb"
+    },
+    {
+      "nr": 70,
+      "path": "../Bit/T070_A02007.fctb"
+    },
+    {
+      "nr": 96,
+      "path": "../Bit/T096_M01001.fctb"
+    },
+    {
+      "nr": 5,
+      "path": "../Bit/T005_W04010.fctb"
+    },
+    {
+      "nr": 97,
+      "path": "../Bit/T097_M02005.fctb"
+    },
+    {
+      "nr": 84,
+      "path": "../Bit/T084_M03001.fctb"
+    },
+    {
+      "nr": 16,
+      "path": "../Bit/T016_W04009.fctb"
+    },
+    {
+      "nr": 82,
+      "path": "../Bit/T082_M02003.fctb"
+    },
+    {
+      "nr": 85,
+      "path": "../Bit/T085_M03008.fctb"
+    },
+    {
+      "nr": 60,
+      "path": "../Bit/T060_W06008.fctb"
+    },
+    {
+      "nr": 107,
+      "path": "../Bit/T107_W04023.fctb"
+    },
+    {
+      "nr": 46,
+      "path": "../Bit/T046_W01017.fctb"
+    },
+    {
+      "nr": 56,
+      "path": "../Bit/T056_W06003.fctb"
+    },
+    {
+      "nr": 47,
+      "path": "../Bit/T047_W01001.fctb"
+    },
+    {
+      "nr": 99,
+      "path": "../Bit/T099_M02006.fctb"
+    },
+    {
+      "nr": 42,
+      "path": "../Bit/T042_W01013.fctb"
+    },
+    {
+      "nr": 14,
+      "path": "../Bit/T014_W04006.fctb"
+    },
+    {
+      "nr": 100,
+      "path": "../Bit/T100_M03003.fctb"
+    },
+    {
+      "nr": 104,
+      "path": "../Bit/T104_M05004.fctb"
+    },
+    {
+      "nr": 109,
+      "path": "../Bit/T109_W02008.fctb"
+    },
+    {
+      "nr": 110,
+      "path": "../Bit/T110_W06010.fctb"
+    },
+    {
+      "nr": 113,
+      "path": "../Bit/T113_W02010.fctb"
+    },
+    {
+      "nr": 114,
+      "path": "../Bit/T114_W05004.fctb"
+    },
+    {
+      "nr": 115,
+      "path": "../Bit/T115_W03006.fctb"
+    },
+    {
+      "nr": 119,
+      "path": "../Bit/T119_W08004.fctb"
+    },
+    {
+      "nr": 116,
+      "path": "../Bit/T116_W08001.fctb"
+    },
+    {
+      "nr": 117,
+      "path": "../Bit/T117_W08002.fctb"
+    },
+    {
+      "nr": 118,
+      "path": "../Bit/T118_W08003.fctb"
+    },
+    {
+      "nr": 120,
+      "path": "../Bit/T120_W08001.fctb"
+    },
+    {
+      "nr": 121,
+      "path": "../Bit/T121_W09001.fctb"
+    },
+    {
+      "nr": 122,
+      "path": "../Bit/T122_W06012.fctb"
+    },
+    {
+      "nr": 123,
+      "path": "../Bit/T123_W06013.fctb"
+    },
+    {
+      "nr": 124,
+      "path": "../Bit/T124_W06014.fctb"
+    },
+    {
+      "nr": 126,
+      "path": "../Bit/T126_W06016.fctb"
+    },
+    {
+      "nr": 125,
+      "path": "../Bit/T125_W06018.fctb"
+    },
+    {
+      "nr": 127,
+      "path": "../Bit/T127_W06019.fctb"
+    },
+    {
+      "nr": 128,
+      "path": "../Bit/T128_W05010.fctb"
+    },
+    {
+      "nr": 129,
+      "path": "../Bit/T129_W05011.fctb"
+    },
+    {
+      "nr": 130,
+      "path": "../Bit/T130_W05012.fctb"
+    },
+    {
+      "nr": 131,
+      "path": "../Bit/T131_W04029.fctb"
+    },
+    {
+      "nr": 132,
+      "path": "../Bit/T132_W04030.fctb"
+    },
+    {
+      "nr": 133,
+      "path": "../Bit/T133_W04031.fctb"
+    },
+    {
+      "nr": 134,
+      "path": "../Bit/T134_W04032.fctb"
+    },
+    {
+      "nr": 135,
+      "path": "../Bit/T135_W04033.fctb"
+    },
+    {
+      "nr": 136,
+      "path": "../Bit/T136_W04034.fctb"
+    },
+    {
+      "nr": 137,
+      "path": "../Bit/T137_W03010.fctb"
+    },
+    {
+      "nr": 138,
+      "path": "../Bit/T138_W03011.fctb"
+    },
+    {
+      "nr": 139,
+      "path": "../Bit/T139_W02011.fctb"
+    },
+    {
+      "nr": 140,
+      "path": "../Bit/T140_W02012.fctb"
+    },
+    {
+      "nr": 141,
+      "path": "../Bit/T141_W02013.fctb"
+    },
+    {
+      "nr": 142,
+      "path": "../Bit/T142_M02008.fctb"
+    },
+    {
+      "nr": 143,
+      "path": "../Bit/T143_W03012.fctb"
+    },
+    {
+      "nr": 144,
+      "path": "../Bit/T144_W02014.fctb"
+    },
+    {
+      "nr": 145,
+      "path": "../Bit/T145_W04035.fctb"
+    },
+    {
+      "nr": 146,
+      "path": "../Bit/T146_W04036.fctb"
+    },
+    {
+      "nr": 147,
+      "path": "../Bit/T147_W04037.fctb"
+    },
+    {
+      "nr": 148,
+      "path": "../Bit/T148_W04038.fctb"
+    },
+    {
+      "nr": 149,
+      "path": "../Bit/T149_IP5FC-3-1_4-D1_2.fctb"
+    },
+    {
+      "nr": 150,
+      "path": "../Bit/T150_W06017.fctb"
+    },
+    {
+      "nr": 151,
+      "path": "../Bit/T151_W09004.fctb"
+    },
+    {
+      "nr": 201,
+      "path": "../Bit/T201_SP2FC-D4-L22.fctb"
+    },
+    {
+      "nr": 202,
+      "path": "../Bit/T202_SP2FC-D4-L25.fctb"
+    },
+    {
+      "nr": 203,
+      "path": "../Bit/T203_SP-D4-L22-U.fctb"
+    },
+    {
+      "nr": 204,
+      "path": "../Bit/T204_SP-D4-L22-D.fctb"
+    },
+    {
+      "nr": 205,
+      "path": "../Bit/T205_SP2FC-D6-L22.fctb"
+    },
+    {
+      "nr": 206,
+      "path": "../Bit/T206_SP2FC-D6-L32.fctb"
+    },
+    {
+      "nr": 207,
+      "path": "../Bit/T207_SP-D6-H6-D.fctb"
+    },
+    {
+      "nr": 208,
+      "path": "../Bit/T208_SP-D6-H6-U.fctb"
+    },
+    {
+      "nr": 209,
+      "path": "../Bit/T209_WU3C-D6-L32.fctb"
+    },
+    {
+      "nr": 210,
+      "path": "../Bit/T210_SP2FC-d6-D8-L24.fctb"
+    },
+    {
+      "nr": 211,
+      "path": "../Bit/T211_SP2FC-d4-D8-L20.fctb"
+    },
+    {
+      "nr": 212,
+      "path": "../Bit/T212_SP-d4-D8-L20-D.fctb"
+    },
+    {
+      "nr": 213,
+      "path": "../Bit/T213_SP-d4-D8-L20-U.fctb"
+    },
+    {
+      "nr": 214,
+      "path": "../Bit/T214_SP-d6-D8-L24-D.fctb"
+    },
+    {
+      "nr": 215,
+      "path": "../Bit/T215_SP-d6-D8-L24-U.fctb"
+    },
+    {
+      "nr": 216,
+      "path": "../Bit/T216_SP-D8-H8-D.fctb"
+    },
+    {
+      "nr": 217,
+      "path": "../Bit/T217_SP-D8-H8-U.fctb"
+    },
+    {
+      "nr": 218,
+      "path": "../Bit/T218_WU3C-D8-L32.fctb"
+    },
+    {
+      "nr": 219,
+      "path": "../Bit/T219_SP2FC-D8-L32.fctb"
+    },
+    {
+      "nr": 220,
+      "path": "../Bit/T220_SP2FC-D8-L45.fctb"
+    },
+    {
+      "nr": 221,
+      "path": "../Bit/T221_SP1F-D3.1-L15.fctb"
+    },
+    {
+      "nr": 222,
+      "path": "../Bit/T222_SP1F-D3.1-L12.fctb"
+    },
+    {
+      "nr": 223,
+      "path": "../Bit/T223_SP1F-D6-L22.fctb"
+    },
+    {
+      "nr": 224,
+      "path": "../Bit/T224_SP1F-D6-L32.fctb"
+    },
+    {
+      "nr": 225,
+      "path": "../Bit/T225_SA1F-D6-L22.fctb"
+    },
+    {
+      "nr": 226,
+      "path": "../Bit/T226_SP1F-D8-L32.fctb"
+    },
+    {
+      "nr": 227,
+      "path": "../Bit/T227_W04802.fctb"
+    },
+    {
+      "nr": 228,
+      "path": "../Bit/T228_W05005.fctb"
+    },
+    {
+      "nr": 229,
+      "path": "../Bit/T229_W05007.fctb"
+    },
+    {
+      "nr": 230,
+      "path": "../Bit/T230_W05009.fctb"
+    },
+    {
+      "nr": 231,
+      "path": "../Bit/T231_IP2F-25-D8.fctb"
+    },
+    {
+      "nr": 232,
+      "path": "../Bit/T232_W05006.fctb"
+    },
+    {
+      "nr": 233,
+      "path": "../Bit/T233_W05008.fctb"
+    },
+    {
+      "nr": 234,
+      "path": "../Bit/T234_IP4F-75-D12.fctb"
+    },
+    {
+      "nr": 235,
+      "path": "../Bit/T235_IP4F-60-D12.fctb"
+    },
+    {
+      "nr": 236,
+      "path": "../Bit/T236_ECP3F-D4.0-R60.fctb"
+    },
+    {
+      "nr": 237,
+      "path": "../Bit/T237_ECP3F-D4.0-R90.fctb"
+    },
+    {
+      "nr": 238,
+      "path": "../Bit/T238_D12-D6-60.fctb"
+    },
+    {
+      "nr": 239,
+      "path": "../Bit/T239_D12-D6-90.fctb"
+    },
+    {
+      "nr": 240,
+      "path": "../Bit/T240_ECP3F-D6.0-R60.fctb"
+    },
+    {
+      "nr": 241,
+      "path": "../Bit/T241_ECP3F-D6.0-R90.fctb"
+    },
+    {
+      "nr": 242,
+      "path": "../Bit/T242_D6-30-0.2T.fctb"
+    },
+    {
+      "nr": 243,
+      "path": "../Bit/T243_D12-D8-60.fctb"
+    },
+    {
+      "nr": 244,
+      "path": "../Bit/T244_D12-D8-90.fctb"
+    },
+    {
+      "nr": 245,
+      "path": "../Bit/T245_IECP1F-D8-R60.fctb"
+    },
+    {
+      "nr": 246,
+      "path": "../Bit/T246_IECP1F-D8-R90.fctb"
+    },
+    {
+      "nr": 247,
+      "path": "../Bit/T247_R0.25-D3.175.fctb"
+    },
+    {
+      "nr": 248,
+      "path": "../Bit/T248_R0.5X30.5XD6.fctb"
+    },
+    {
+      "nr": 249,
+      "path": "../Bit/T249_Tool_193.fctb"
+    },
+    {
+      "nr": 250,
+      "path": "../Bit/T250_Tool_194.fctb"
+    },
+    {
+      "nr": 251,
+      "path": "../Bit/T251_R0.25-D4.fctb"
+    },
+    {
+      "nr": 252,
+      "path": "../Bit/T252_Tool_196.fctb"
+    },
+    {
+      "nr": 253,
+      "path": "../Bit/T253_Tool_197.fctb"
+    },
+    {
+      "nr": 254,
+      "path": "../Bit/T254_Tool_198.fctb"
+    },
+    {
+      "nr": 255,
+      "path": "../Bit/T255_R0.25X30.5XD6.fctb"
+    },
+    {
+      "nr": 256,
+      "path": "../Bit/T256_R0.5X30.5XD6.fctb"
+    },
+    {
+      "nr": 257,
+      "path": "../Bit/T257_R1.0X30.5XD6.fctb"
+    },
+    {
+      "nr": 258,
+      "path": "../Bit/T258_R1.5X30.5XD6.fctb"
+    },
+    {
+      "nr": 259,
+      "path": "../Bit/T259_OP2F-D8-D16-R8.fctb"
+    },
+    {
+      "nr": 260,
+      "path": "../Bit/T260_BP2F-D8-D25-R8.fctb"
+    },
+    {
+      "nr": 261,
+      "path": "../Bit/T261_W2B-R3.0-L24.fctb"
+    },
+    {
+      "nr": 153,
+      "path": "../Bit/T153_W06020.fctb"
+    },
+    {
+      "nr": 154,
+      "path": "../Bit/T154_W06021.fctb"
+    },
+    {
+      "nr": 152,
+      "path": "../Bit/T152_W03013.fctb"
+    },
+    {
+      "nr": 155,
+      "path": "../Bit/T155_W03014.fctb"
+    },
+    {
+      "nr": 156,
+      "path": "../Bit/T156_W08013.fctb"
+    },
+    {
+      "nr": 157,
+      "path": "../Bit/T157_W08010.fctb"
+    },
+    {
+      "nr": 158,
+      "path": "../Bit/T158_W08016.fctb"
+    },
+    {
+      "nr": 159,
+      "path": "../Bit/T159_W08017.fctb"
+    },
+    {
+      "nr": 262,
+      "path": "../Bit/T262_AU3E-D6.0-L18-H6-T60.fctb"
+    },
+    {
+      "nr": 263,
+      "path": "../Bit/T263_W04702.fctb"
+    },
+    {
+      "nr": 264,
+      "path": "../Bit/T264_W04704.fctb"
+    },
+    {
+      "nr": 265,
+      "path": "../Bit/T265_W04705.fctb"
+    },
+    {
+      "nr": 266,
+      "path": "../Bit/T266_W04701.fctb"
+    },
+    {
+      "nr": 267,
+      "path": "../Bit/T267_W04703.fctb"
+    },
+    {
+      "nr": 268,
+      "path": "../Bit/T268_W05503.fctb"
+    },
+    {
+      "nr": 269,
+      "path": "../Bit/T269_W01505.fctb"
+    },
+    {
+      "nr": 270,
+      "path": "../Bit/T270_W01506.fctb"
+    },
+    {
+      "nr": 271,
+      "path": "../Bit/T271_W08504.fctb"
+    },
+    {
+      "nr": 272,
+      "path": "../Bit/T272_W08506.fctb"
+    },
+    {
+      "nr": 273,
+      "path": "../Bit/T273_W08505.fctb"
+    }
+  ],
+  "version": 1
+}
