@@ -1,3 +1,6 @@
+# WORK IN PROGRESS - Many updates needed. Can serve as a good reference but is not currently importing all necessary attribute fields for setting speeds/feeds.
+I am currently working on correcting this to it works directly on import.
+
 # SpeTool Fusion 360 → FreeCAD CAM
 
 A FreeCAD 1.1 CAM tool library converted from the supplied SpeTool Fusion 360
